@@ -268,9 +268,9 @@ ion-icon {
     content: "Python";
   }
   80% {
-    content: "Java";
+    content: "Elixir";
   }
   100% {
-    content: "C/C++";
+    content: "Java";
   }
 }
